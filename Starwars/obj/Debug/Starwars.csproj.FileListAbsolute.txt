@@ -1,0 +1,10 @@
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\bin\Debug\Starwars.exe.config
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\bin\Debug\Starwars.exe
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\bin\Debug\Starwars.pdb
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\obj\Debug\Starwars.csprojAssemblyReference.cache
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\obj\Debug\Starwars.csproj.CoreCompileInputs.cache
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\obj\Debug\Starwars.exe
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\obj\Debug\Starwars.pdb
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MintumolThomas\Desktop\Starwars\Starwars\Starwars\obj\Debug\Starwars.csproj.CopyComplete
